@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+<!--The data in this file is primarily intended for consumption by Xilinx tools.
+The structure and the elements are likely to change over the next few releases.
+This means code written to parse this file will need to be revisited each subsequent release.-->
+<application name="pa" timeStamp="Thu Dec 30 20:14:03 2021">
+<section name="Project Information" visible="false">
+<property name="ProjectID" value="c483a65a5c52483d91539a19ebeb2257" type="ProjectID"/>
+<property name="ProjectIteration" value="1" type="ProjectIteration"/>
+</section>
+<section name="PlanAhead Usage" visible="true">
+<item name="Project Data">
+<property name="SrcSetCount" value="1" type="SrcSetCount"/>
+<property name="ConstraintSetCount" value="1" type="ConstraintSetCount"/>
+<property name="DesignMode" value="RTL" type="DesignMode"/>
+<property name="SynthesisStrategy" value="Vivado Synthesis Defaults" type="SynthesisStrategy"/>
+<property name="ImplStrategy" value="Vivado Implementation Defaults" type="ImplStrategy"/>
+</item>
+<item name="Java Command Handlers">
+<property name="AddSources" value="1" type="JavaHandler"/>
+<property name="CreateBlockDesign" value="1" type="JavaHandler"/>
+<property name="RunSynthesis" value="1" type="JavaHandler"/>
+<property name="ValidateRSBDesign" value="1" type="JavaHandler"/>
+<property name="ViewTaskIPIntegrator" value="1" type="JavaHandler"/>
+<property name="ViewTaskProjectManager" value="1" type="JavaHandler"/>
+</item>
+<item name="Gui Resources Info">
+<property name="PAResourceAtoD.CmdMsgDialog_OK, OK" value="1" type="GuiResourceData"/>
+<property name="PAResourceCommand.PACommandNames_VALIDATE_RSB_DESIGN, System_validate_bd_design_rsb" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Design Sources, arbiter_1p0 (arbiter_1p0.v" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, [, IP Integrator, Create Block Design], 6, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, [, IP Integrator], 5, true" value="3" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, [, Project Manager], 0, true" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PlanAheadTab_REFRESH_CHANGED_MODULES, Refresh Changed Modules" value="1" type="GuiResourceData"/>
+<property name="PAResourceQtoS.SystemBuilderMenu_ADD_MODULE, Add Module..." value="1" type="GuiResourceData"/>
+<property name="RDIResource.BaseDialog_CANCEL, Cancel" value="1" type="GuiResourceData"/>
+<property name="RDIResource.BaseDialog_OK, OK" value="2" type="GuiResourceData"/>
+<property name="RDIResourceCommand.RDICommands_REDO, (String" value="1" type="GuiResourceData"/>
+<property name="RDIResourceCommand.RDICommands_SAVE_FILE, (String" value="1" type="GuiResourceData"/>
+<property name="RDIResourceCommand.RDICommands_UNDO, (String" value="18" type="GuiResourceData"/>
+<property name="arbiter_1p0.v, 101, 214" value="1" type="GuiResourceData"/>
+<property name="arbiter_1p0.v, 101, 214, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="arbiter_1p0.v, 101, 217" value="1" type="GuiResourceData"/>
+<property name="arbiter_1p0.v, 101, 217, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="arbiter_1p0.v, 102, 198" value="1" type="GuiResourceData"/>
+<property name="arbiter_1p0.v, 102, 198, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="arbiter_1p0.v, 103, 128" value="1" type="GuiResourceData"/>
+<property name="arbiter_1p0.v, 103, 128, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="arbiter_1p0.v, 109, 213" value="1" type="GuiResourceData"/>
+<property name="arbiter_1p0.v, 109, 213, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="arbiter_1p0.v, 114, 125" value="1" type="GuiResourceData"/>
+<property name="arbiter_1p0.v, 114, 125, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="arbiter_1p0.v, 126, 228" value="1" type="GuiResourceData"/>
+<property name="arbiter_1p0.v, 126, 228, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="arbiter_1p0.v, 128, 145" value="1" type="GuiResourceData"/>
+<property name="arbiter_1p0.v, 128, 148, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="arbiter_1p0.v, 133, 225" value="1" type="GuiResourceData"/>
+<property name="arbiter_1p0.v, 133, 225, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="arbiter_1p0.v, 140, 237" value="1" type="GuiResourceData"/>
+<property name="arbiter_1p0.v, 140, 237, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="arbiter_1p0.v, 150, 401" value="1" type="GuiResourceData"/>
+<property name="arbiter_1p0.v, 150, 401, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="arbiter_1p0.v, 158, 70" value="1" type="GuiResourceData"/>
+<property name="arbiter_1p0.v, 158, 70, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="arbiter_1p0.v, 178, 273" value="1" type="GuiResourceData"/>
+<property name="arbiter_1p0.v, 178, 273, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="arbiter_1p0.v, 179, 265" value="1" type="GuiResourceData"/>
+<property name="arbiter_1p0.v, 179, 265, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="arbiter_1p0.v, 189, 171" value="1" type="GuiResourceData"/>
+<property name="arbiter_1p0.v, 191, 230" value="1" type="GuiResourceData"/>
+<property name="arbiter_1p0.v, 191, 230, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="arbiter_1p0.v, 204, 247" value="1" type="GuiResourceData"/>
+<property name="arbiter_1p0.v, 204, 247, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="arbiter_1p0.v, 213, 124" value="1" type="GuiResourceData"/>
+<property name="arbiter_1p0.v, 232, 269" value="1" type="GuiResourceData"/>
+<property name="arbiter_1p0.v, 244, 143" value="1" type="GuiResourceData"/>
+<property name="arbiter_1p0.v, 39, 501" value="1" type="GuiResourceData"/>
+<property name="arbiter_1p0.v, 39, 501, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="arbiter_1p0.v, 86, 185" value="1" type="GuiResourceData"/>
+</item>
+<item name="Other">
+<property name="GuiMode" value="12" type="GuiMode"/>
+<property name="BatchMode" value="0" type="BatchMode"/>
+<property name="TclMode" value="10" type="TclMode"/>
+</item>
+</section>
+</application>
+</document>
